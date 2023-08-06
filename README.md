@@ -6,6 +6,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ggomez0/ggomez0/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
 
 ###

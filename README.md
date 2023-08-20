@@ -3,8 +3,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ggomez0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=ggomez0&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-###
+
 
 <img src="https://raw.githubusercontent.com/ggomez0/ggomez0/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="125c768d-1fe2-4202-a07f-abbe8d38b1cb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>

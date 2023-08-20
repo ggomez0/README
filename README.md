@@ -9,4 +9,3 @@
 
 ###
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="125c768d-1fe2-4202-a07f-abbe8d38b1cb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
